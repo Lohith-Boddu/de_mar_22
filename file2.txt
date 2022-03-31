@@ -2,3 +2,6 @@ This is the second file on the main branch
 
 
 Hey this is the line in feature 2 branch
+
+
+some more lines added while work is in stash
